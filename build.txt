@@ -1,0 +1,3 @@
+displayName = Genesis' Martial Arts mod
+author = GenesisWolf
+version = 1.4.9.3

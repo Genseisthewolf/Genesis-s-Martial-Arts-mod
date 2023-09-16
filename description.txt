@@ -1,0 +1,13 @@
+This is a mod that is meant to add some punch style attacks from animes and other media
+
+Their are currently 4 tiers
+one weapon for tier 1
+Tier 2 - 4
+Tier 3 - 3
+Tier 4 - 2
+Misc skills - 1
+to get started it's some gel at a workbench
+
+Credits:
+Main dev:@Dogerio1 on twitter
+Sprite help: SamiCRZ#5257

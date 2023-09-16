@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DgkAJsJd6nNMp8Hn3p3gHJw7mgOIMOf/yWIcTcEH9gJdOC+WJOo6IjJpMYA0fIqWyZFbsoeL3M1WnPLv89OjRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\14196\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Genepunch\\Genepunch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\14196\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
